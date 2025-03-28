@@ -1,5 +1,0 @@
-This is a syntax document for Python:
-
-Update regularly
-
-OOP:
